@@ -16,15 +16,24 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "gatsby": "^5.13.7",
-    "gatsby-plugin-manifest": "^5.13.1",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "@types/cytoscape-dagre": "^2.3.3",
+    "@types/react-cytoscapejs": "^1.2.5",
+    "babel-plugin-styled-components": "^2.1.4",
+    "cytoscape": "3.30.2",
+    "cytoscape-dagre": "^2.5.0",
+    "gatsby": "5.13.7",
+    "gatsby-plugin-manifest": "5.13.1",
+    "gatsby-plugin-styled-components": "^6.13.1",
+    "gedcom": "^3.0.0",
+    "react": "18.2.0",
+    "react-cytoscapejs": "^2.0.0",
+    "react-dom": "18.2.0",
+    "styled-components": "^6.1.13"
   },
   "devDependencies": {
-    "@types/node": "^20.11.19",
-    "@types/react": "^18.2.55",
-    "@types/react-dom": "^18.2.19",
-    "typescript": "^5.3.3"
+    "@types/node": "20.11.19",
+    "@types/react": "18.2.55",
+    "@types/react-dom": "18.2.19",
+    "typescript": "5.3.3"
   }
 }
