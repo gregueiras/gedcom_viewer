@@ -7,7 +7,6 @@ var spin = keyframes`
 `;
 
 const Container = styled.div`
-  transform: scale(6);
 `;
 
 const animation = css`
